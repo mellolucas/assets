@@ -1,0 +1,20 @@
+<svg width="74.2" height="20" viewBox="0 0 742 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-label="linkedin">
+  <title>linkedin</title>
+  <linearGradient id="a" x2="0" y2="100%">
+    <stop offset="0" stop-opacity=".1" stop-color="#EEE"/>
+    <stop offset="1" stop-opacity=".1"/>
+  </linearGradient>
+  <mask id="m"><rect width="742" height="200" rx="30" fill="#FFF"/></mask>
+  <g mask="url(#m)">
+    <rect width="212" height="200" fill="#555"/>
+    <rect width="530" height="200" fill="#0a66c2" x="212"/>
+    <rect width="742" height="200" fill="url(#a)"/>
+  </g>
+  <g aria-hidden="true" fill="#fff" text-anchor="start" font-family="Verdana,DejaVu Sans,sans-serif" font-size="110">
+    <text x="172" y="148" textLength="0" fill="#000" opacity="0.25"></text>
+    <text x="162" y="138" textLength="0"></text>
+    <text x="267" y="148" textLength="430" fill="#000" opacity="0.25">linkedin</text>
+    <text x="257" y="138" textLength="430">linkedin</text>
+  </g>
+  <image x="40" y="35" width="130" height="130" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9IiNmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTUuNDEzMzA1MDIgMjMuOTUzMTc1MzlILjQ0NDM3NTUyVjcuOTg2Nzk0N2g0Ljk2ODkyOTV6TTIuOTI4ODQwMjcgNS44MDIwODI5OWMtMS41OTQ5NjUwMyAwLTIuODc2MjM1MDItMS4yOTEwMjkzOS0yLjg3NjIzNTAyLTIuODc5MDIzNDIgMC0xLjU4NjU5OTgyIDEuMjgyNjY0MTktMi44NzYyMzUgMi44NzYyMzUwMi0yLjg3NjIzNSAxLjU4OTM4ODIzIDAgMi44Nzc2MjkyMSAxLjI4OTYzNTE4IDIuODc3NjI5MjEgMi44NzYyMzUgMCAxLjU4Nzk5NDAzLTEuMjg5NjM1MTggMi44NzkwMjM0Mi0yLjg3NzYyOTIxIDIuODc5MDIzNDJ6TTIzLjk5NTIwNTI5IDIzLjk1MzE3NTM5aC00Ljk1NDk4NzUxdi03Ljc2NDMwMDkxYzAtMS44NTE0OTc4Ny0uMDM3NjQzNC00LjIzNDE4NjAxLTIuNTgyMDU4NzctNC4yMzQxODYwMS0yLjU4MzQ1Mjk3IDAtMi45NzgwMTE2MyAyLjAxNDYxOTI5LTIuOTc4MDExNjMgNC4wOTc1NTQzOXY3LjkwMDkzMjUzSDguNTI1MTU5ODdWNy45ODY3OTQ3aDQuNzU5Nzk5NDh2Mi4xNzYzNDY1MWguMDY0MTMzMjFjLjY2NTAzMzUtMS4yNTQ3ODAxOCAyLjI4MjMwNTczLTIuNTc5MjcwMzcgNC42OTg0NTQ2OC0yLjU3OTI3MDM3IDUuMDIwNTE0OTIgMCA1Ljk0OTA1MjI1IDMuMzA0MjU0NDggNS45NDkwNTIyNSA3LjYwNTM2MjF2OC43NjM5NDI0NXoiLz48L3N2Zz4="/>
+</svg>

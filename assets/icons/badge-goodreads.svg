@@ -1,0 +1,20 @@
+<svg width="88.9" height="20" viewBox="0 0 889 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-label="goodreads">
+  <title>goodreads</title>
+  <linearGradient id="a" x2="0" y2="100%">
+    <stop offset="0" stop-opacity=".1" stop-color="#EEE"/>
+    <stop offset="1" stop-opacity=".1"/>
+  </linearGradient>
+  <mask id="m"><rect width="889" height="200" rx="30" fill="#FFF"/></mask>
+  <g mask="url(#m)">
+    <rect width="212" height="200" fill="#555"/>
+    <rect width="677" height="200" fill="#372213" x="212"/>
+    <rect width="889" height="200" fill="url(#a)"/>
+  </g>
+  <g aria-hidden="true" fill="#fff" text-anchor="start" font-family="Verdana,DejaVu Sans,sans-serif" font-size="110">
+    <text x="172" y="148" textLength="0" fill="#000" opacity="0.25"></text>
+    <text x="162" y="138" textLength="0"></text>
+    <text x="267" y="148" textLength="577" fill="#000" opacity="0.25">goodreads</text>
+    <text x="257" y="138" textLength="577">goodreads</text>
+  </g>
+  <image x="40" y="35" width="130" height="130" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9IiNmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTExLjQzIDIzLjk5NWMtMy42MDgtLjIwOC02LjI3NC0yLjA3Ny02LjQ0OC01LjA3OC42OTUuMDA3IDEuMzc1LS4wMTMgMi4wNy0uMDA2LjIyNCAxLjM0MiAxLjA2NSAyLjQzIDIuNjgzIDMuMDI2IDEuNTgzLjQ5NiAzLjczNy40NiA1LjA4Mi0uMTc0IDEuMzUxLS42MzYgMi4xNDUtMS44MjIgMi41MDMtMy41NzcuMjEyLTEuMDQyLjIzNi0xLjczNC4yMzEtMi45MmwtLjAwNS0xLjYzMWgtLjA1OWMtMS4yNDUgMi41NjQtMy4zMTUgMy41My01LjU5IDMuNDc1LTUuNzQtLjA1NC03LjY4LTQuNTM0LTcuNTI4LTguNjA2LjAxLTUuMjQxIDMuMjItOC41MzcgNy41NTctOC40OTUgMi4zNTQtLjE0IDQuNjA1IDEuMzYyIDUuNTU0IDMuMzdsLjA1OS4wMDIuMDAyLTIuOTE4IDIuMDk5LjAwNC0uMDAyIDE1LjcxN2MtLjE5MyA3LjA0LTQuMzc2IDcuODktOC4yMDkgNy44MTF6bTYuMS0xNS42MzNjLS4wOTYtMy4yNi0xLjYwMS02LjYyLTUuNTAzLTYuNjQ1LTMuOTU0LS4wMTctNS42MjUgMy41OTItNS42MDQgNi44NS0uMDEzIDMuNDM5IDEuNjQzIDYuMzA1IDQuNzAzIDYuNzYyIDQuNTMyLjU5MSA2LjU1MS0zLjQxMSA2LjQwNC02Ljk2N3oiLz48L3N2Zz4K"/>
+</svg>
