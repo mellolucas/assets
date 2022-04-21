@@ -1,2 +1,2 @@
-# assets
-Lucas Mello's non-sensitive common assets
+# Lucas Mello's Assets
+Non-sensitive common assets
